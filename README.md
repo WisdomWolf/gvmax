@@ -1,4 +1,5 @@
 gvmax
 =====
 
-GVMax
+* Website : https://www.gvmax.com
+* Maven site : http://haninaguib.github.io/gvmax/ 
