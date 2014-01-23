@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.3" timestamp="2014-01-23T12:54:00.800">
-<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.web/src/main/java/com/gvmax/web/GVMaxServiceImpl.java">
+<pmd version="4.3" timestamp="2014-01-23T13:31:51.702">
+<file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.web/src/main/java/com/gvmax/web/GVMaxServiceImpl.java">
 <violation beginline="324" endline="429" begincolumn="12" endcolumn="5" rule="NcssMethodCount" ruleset="Code Size Rules" package="com.gvmax.web" class="GVMaxServiceImpl" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssMethodCount" priority="3">
 The method setNotifiers() has an NCSS line count of 59
 </violation>
 </file>
-<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.web/src/main/java/com/gvmax/web/api/WebAppAPI.java">
+<file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.web/src/main/java/com/gvmax/web/api/WebAppAPI.java">
 <violation beginline="105" endline="105" begincolumn="48" endcolumn="54" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.web.api" class="WebAppAPI" method="user" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
 The String literal &quot;email&quot; appears 8 times in this file; the first occurrence is on line 105
 </violation>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.3" timestamp="2014-01-23T12:55:15.820">
-<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.assembly/src/main/java/com/gvmax/assembly/daemon/Daemon.java">
+<pmd version="4.3" timestamp="2014-01-23T13:33:44.308">
+<file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.assembly/src/main/java/com/gvmax/assembly/daemon/Daemon.java">
 <violation beginline="79" endline="79" begincolumn="13" endcolumn="30" rule="SystemPrintln" ruleset="Java Logging Rules" package="com.gvmax.assembly.daemon" class="Daemon" method="startDaemon" externalInfoUrl="http://pmd.sourceforge.net/rules/logging-java.html#SystemPrintln" priority="3">
 System.out.print is used
 </violation>
@@ -14,7 +14,7 @@ Consider simply returning the value vs storing it in local variable 'pid'
 Avoid printStackTrace(); use a logger call instead.
 </violation>
 </file>
-<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.assembly/src/main/java/com/gvmax/assembly/daemon/StandardDaemon.java">
+<file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.assembly/src/main/java/com/gvmax/assembly/daemon/StandardDaemon.java">
 <violation beginline="44" endline="44" begincolumn="47" endcolumn="55" rule="SignatureDeclareThrowsException" ruleset="Strict Exception Rules" package="com.gvmax.assembly.daemon" class="StandardDaemon" method="process" externalInfoUrl="http://pmd.sourceforge.net/rules/strictexception.html#SignatureDeclareThrowsException" priority="3">
 A method/constructor shouldn't explicitly throw java.lang.Exception
 </violation>

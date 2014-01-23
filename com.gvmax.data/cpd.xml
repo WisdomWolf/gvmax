@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pmd-cpd>
 <duplication lines="14" tokens="117">
-<file line="150" path="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java"/>
-<file line="181" path="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java"/>
+<file line="150" path="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java"/>
+<file line="181" path="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java"/>
 <codefragment>
 <![CDATA[
                     stats.setStatsCount(rs.getInt("statsCount"));

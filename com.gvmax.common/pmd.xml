@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.3" timestamp="2014-01-23T12:51:21.234">
-<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.common/src/main/java/com/gvmax/common/model/XMPPAction.java">
+<pmd version="4.3" timestamp="2014-01-23T13:28:05.392">
+<file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.common/src/main/java/com/gvmax/common/model/XMPPAction.java">
 <violation beginline="40" endline="40" begincolumn="36" endcolumn="46" rule="ArrayIsStoredDirectly" ruleset="Security Code Guidelines" package="com.gvmax.common.model" class="XMPPAction" externalInfoUrl="http://pmd.sourceforge.net/rules/sunsecure.html#ArrayIsStoredDirectly" priority="2">
 The user-supplied array 'to' is stored directly.
 </violation>
@@ -11,7 +11,7 @@ The user-supplied array 'to' is stored directly.
 The user-supplied array 'to' is stored directly.
 </violation>
 </file>
-<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.common/src/main/java/com/gvmax/common/util/MetricsUtil.java">
+<file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.common/src/main/java/com/gvmax/common/util/MetricsUtil.java">
 <violation beginline="46" endline="46" begincolumn="47" endcolumn="51" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.common.util" class="MetricsUtil" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
 The String literal &quot;jvm&quot; appears 4 times in this file; the first occurrence is on line 46
 </violation>
