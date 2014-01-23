@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2014-01-23T12:54:00.800">
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.web/src/main/java/com/gvmax/web/GVMaxServiceImpl.java">
+<violation beginline="324" endline="429" begincolumn="12" endcolumn="5" rule="NcssMethodCount" ruleset="Code Size Rules" package="com.gvmax.web" class="GVMaxServiceImpl" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssMethodCount" priority="3">
+The method setNotifiers() has an NCSS line count of 59
+</violation>
+</file>
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.web/src/main/java/com/gvmax/web/api/WebAppAPI.java">
+<violation beginline="105" endline="105" begincolumn="48" endcolumn="54" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.web.api" class="WebAppAPI" method="user" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;email&quot; appears 8 times in this file; the first occurrence is on line 105
+</violation>
+<violation beginline="105" endline="105" begincolumn="111" endcolumn="115" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.web.api" class="WebAppAPI" method="user" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;pin&quot; appears 6 times in this file; the first occurrence is on line 105
+</violation>
+<violation beginline="130" endline="130" begincolumn="78" endcolumn="87" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.web.api" class="WebAppAPI" method="login" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;password&quot; appears 5 times in this file; the first occurrence is on line 130
+</violation>
+<violation beginline="134" endline="134" begincolumn="33" endcolumn="40" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.web.api" class="WebAppAPI" method="login" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;result&quot; appears 7 times in this file; the first occurrence is on line 134
+</violation>
+<violation beginline="178" endline="258" begincolumn="12" endcolumn="5" rule="NcssMethodCount" ruleset="Code Size Rules" package="com.gvmax.web.api" class="WebAppAPI" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssMethodCount" priority="3">
+The method register() has an NCSS line count of 51
+</violation>
+</file>
+</pmd>

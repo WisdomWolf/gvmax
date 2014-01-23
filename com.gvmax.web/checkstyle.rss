@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>com.gvmax.web - Checkstyle report</title>
+    <link>${gvmax.rootURL}/com.gvmax.web</link>
+    <description>com.gvmax.web - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2014</copyright>
+    <item>
+      <title>File: 12,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>${gvmax.rootURL}/com.gvmax.web/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.api.WebAPI.java">com/gvmax/web/api/WebAPI.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.api.WebAppAPI.java">com/gvmax/web/api/WebAppAPI.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.RegistrationInfo.java">com/gvmax/web/RegistrationInfo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#thirdparty.properties">thirdparty.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.WebMain.java">com/gvmax/web/WebMain.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.api.APIUtil.java">com/gvmax/web/api/APIUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#webapp.WEB-INF.logging.properties">webapp/WEB-INF/logging.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.RedirectFilter.java">com/gvmax/web/RedirectFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#web.properties">web.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.api.XmppAPI.java">com/gvmax/web/api/XmppAPI.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.GVMaxServiceImpl.java">com/gvmax/web/GVMaxServiceImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.web/checkstyle.html#com.gvmax.web.api.AdminAPI.java">com/gvmax/web/api/AdminAPI.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

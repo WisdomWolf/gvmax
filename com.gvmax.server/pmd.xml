@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2014-01-23T12:54:38.889">
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.server/src/main/java/com/gvmax/server/XMPPReceiver.java">
+<violation beginline="311" endline="311" begincolumn="71" endcolumn="107" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.server" class="XMPPReceiver$XMPPProcessor" method="setFwdPhone" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;' please select an index from 1 to &quot; appears 6 times in this file; the first occurrence is on line 311
+</violation>
+</file>
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.server/src/main/java/com/gvmax/server/handlers/MissedCallHandler.java">
+<violation beginline="39" endline="123" begincolumn="12" endcolumn="5" rule="NcssMethodCount" ruleset="Code Size Rules" package="com.gvmax.server.handlers" class="MissedCallHandler" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssMethodCount" priority="3">
+The method handle() has an NCSS line count of 57
+</violation>
+<violation beginline="58" endline="58" begincolumn="69" endcolumn="81" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.server.handlers" class="MissedCallHandler" method="handle" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;Missed call&quot; appears 5 times in this file; the first occurrence is on line 58
+</violation>
+</file>
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.server/src/main/java/com/gvmax/server/handlers/SMSInHandler.java">
+<violation beginline="44" endline="129" begincolumn="12" endcolumn="5" rule="NcssMethodCount" ruleset="Code Size Rules" package="com.gvmax.server.handlers" class="SMSInHandler" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssMethodCount" priority="3">
+The method handle() has an NCSS line count of 58
+</violation>
+<violation beginline="63" endline="63" begincolumn="48" endcolumn="55" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.server.handlers" class="SMSInHandler" method="handle" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;GV SMS&quot; appears 4 times in this file; the first occurrence is on line 63
+</violation>
+</file>
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.server/src/main/java/com/gvmax/server/handlers/VoicemailHandler.java">
+<violation beginline="44" endline="134" begincolumn="12" endcolumn="5" rule="NcssMethodCount" ruleset="Code Size Rules" package="com.gvmax.server.handlers" class="VoicemailHandler" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NcssMethodCount" priority="3">
+The method handle() has an NCSS line count of 63
+</violation>
+<violation beginline="62" endline="62" begincolumn="27" endcolumn="40" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.server.handlers" class="VoicemailHandler" method="handle" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;Transcript: &quot; appears 5 times in this file; the first occurrence is on line 62
+</violation>
+<violation beginline="62" endline="62" begincolumn="60" endcolumn="69" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.server.handlers" class="VoicemailHandler" method="handle" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;\nLink: &quot; appears 7 times in this file; the first occurrence is on line 62
+</violation>
+<violation beginline="64" endline="64" begincolumn="48" endcolumn="54" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.server.handlers" class="VoicemailHandler" method="handle" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;GV VM&quot; appears 4 times in this file; the first occurrence is on line 64
+</violation>
+</file>
+</pmd>

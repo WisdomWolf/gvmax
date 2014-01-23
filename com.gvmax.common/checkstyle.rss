@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>com.gvmax.common - Checkstyle report</title>
+    <link>${gvmax.rootURL}/com.gvmax.common</link>
+    <description>com.gvmax.common - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2014</copyright>
+    <item>
+      <title>File: 23,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>${gvmax.rootURL}/com.gvmax.common/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.model.GlobalStats.java">com/gvmax/common/model/GlobalStats.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.Enc.java">com/gvmax/common/util/Enc.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.model.User.java">com/gvmax/common/model/User.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.TinyURL.java">com/gvmax/common/util/TinyURL.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.MiscUtils.java">com/gvmax/common/util/MiscUtils.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.PhoneUtil.java">com/gvmax/common/util/PhoneUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.JsonUtils.java">com/gvmax/common/util/JsonUtils.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#relay.properties">relay.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.TimeTrack.java">com/gvmax/common/util/TimeTrack.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.model.Email.java">com/gvmax/common/model/Email.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.model.Stats.java">com/gvmax/common/model/Stats.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.growl.Prowl.java">com/gvmax/common/util/growl/Prowl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.Constants.java">com/gvmax/common/util/Constants.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.growl.Howl.java">com/gvmax/common/util/growl/Howl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.model.XMPPAction.java">com/gvmax/common/model/XMPPAction.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.EmailUtils.java">com/gvmax/common/util/EmailUtils.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.StringUtil.java">com/gvmax/common/util/StringUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.NetUtil.java">com/gvmax/common/util/NetUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#log4j.properties">log4j.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.model.APIAction.java">com/gvmax/common/model/APIAction.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.MetricsUtil.java">com/gvmax/common/util/MetricsUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.relay.GVMaxRelay.java">com/gvmax/common/relay/GVMaxRelay.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.common/checkstyle.html#com.gvmax.common.util.IOUtil.java">com/gvmax/common/util/IOUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

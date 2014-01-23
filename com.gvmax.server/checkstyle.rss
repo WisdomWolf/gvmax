@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>com.gvmax.server - Checkstyle report</title>
+    <link>${gvmax.rootURL}/com.gvmax.server</link>
+    <description>com.gvmax.server - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2014</copyright>
+    <item>
+      <title>File: 12,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>${gvmax.rootURL}/com.gvmax.server/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.util.ContactUtil.java">com/gvmax/server/util/ContactUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.SMTPReceiver.java">com/gvmax/server/SMTPReceiver.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.APIReceiver.java">com/gvmax/server/APIReceiver.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.util.Notifier.java">com/gvmax/server/util/Notifier.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.handlers.ConfirmationHandler.java">com/gvmax/server/handlers/ConfirmationHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.ServerMain.java">com/gvmax/server/ServerMain.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.handlers.MissedCallHandler.java">com/gvmax/server/handlers/MissedCallHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.handlers.VoicemailHandler.java">com/gvmax/server/handlers/VoicemailHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.handlers.SMSInHandler.java">com/gvmax/server/handlers/SMSInHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#server.properties">server.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.XMPPReceiver.java">com/gvmax/server/XMPPReceiver.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.server/checkstyle.html#com.gvmax.server.handlers.EmailInHandler.java">com/gvmax/server/handlers/EmailInHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>com.gvmax.assembly - Checkstyle report</title>
+    <link>${gvmax.rootURL}/com.gvmax.assembly</link>
+    <description>com.gvmax.assembly - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2014</copyright>
+    <item>
+      <title>File: 5,
+             Errors: 0,
+             Warnings: 6,
+             Infos: 0
+      </title>
+            <link>${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html#com.gvmax.assembly.daemon.JavaVMArguments.java">com/gvmax/assembly/daemon/JavaVMArguments.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html#com.gvmax.assembly.daemon.StandardDaemon.java">com/gvmax/assembly/daemon/StandardDaemon.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html#com.gvmax.assembly.Main.java">com/gvmax/assembly/Main.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html#com.gvmax.assembly.daemon.Daemon.java">com/gvmax/assembly/daemon/Daemon.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.assembly/checkstyle.html#com.gvmax.assembly.daemon.CLibrary.java">com/gvmax/assembly/daemon/CLibrary.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

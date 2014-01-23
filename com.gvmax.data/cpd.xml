@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+<duplication lines="14" tokens="117">
+<file line="150" path="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java"/>
+<file line="181" path="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java"/>
+<codefragment>
+<![CDATA[
+                    stats.setStatsCount(rs.getInt("statsCount"));
+                    stats.setSmsInCount(rs.getInt("smsInCount"));
+                    stats.setSmsOutCount(rs.getInt("smsOutCount"));
+                    stats.setVmInCount(rs.getInt("vmInCount"));
+                    stats.setMcInCount(rs.getInt("mcInCount"));
+                    stats.setEmailInCount(rs.getInt("emailInCount"));
+                    stats.setgTalkCount(rs.getInt("gTalkCount"));
+                    stats.setApiCount(rs.getInt("apiCount"));
+                    stats.setErrorCount(rs.getInt("errorCount"));
+                    stats.setInvalidEmailCount(rs.getInt("invalidEmailCount"));
+                    stats.setFallbackCount(rs.getInt("fallbackCount"));
+                    return stats;
+                }
+            });
+]]>
+</codefragment>
+</duplication>
+</pmd-cpd>

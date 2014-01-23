@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.3" timestamp="2014-01-23T12:52:29.417">
+<file name="/Users/haninaguib/workspace/gvmax/git/gvmax.com/com.gvmax.data/src/main/java/com/gvmax/data/user/JDBCBasedUserDAO.java">
+<violation beginline="53" endline="53" begincolumn="85" endcolumn="102" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.data.user" class="JDBCBasedUserDAO" method="exists" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot; where email = ?&quot; appears 5 times in this file; the first occurrence is on line 53
+</violation>
+<violation beginline="60" endline="60" begincolumn="35" endcolumn="53" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.data.user" class="JDBCBasedUserDAO" method="getUsers" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;select user from &quot; appears 4 times in this file; the first occurrence is on line 60
+</violation>
+<violation beginline="102" endline="102" begincolumn="37" endcolumn="45" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.data.user" class="JDBCBasedUserDAO" method="store" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
+The String literal &quot;update &quot; appears 12 times in this file; the first occurrence is on line 102
+</violation>
+</file>
+</pmd>

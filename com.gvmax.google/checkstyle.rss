@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>com.gvmax.google - Checkstyle report</title>
+    <link>${gvmax.rootURL}/com.gvmax.google</link>
+    <description>com.gvmax.google - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2014</copyright>
+    <item>
+      <title>File: 4,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>${gvmax.rootURL}/com.gvmax.google/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${gvmax.rootURL}/com.gvmax.google/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.google/checkstyle.html#com.gvmax.google.voice.GoogleVoice.java">com/gvmax/google/voice/GoogleVoice.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.google/checkstyle.html#com.gvmax.google.talk.GTalk.java">com/gvmax/google/talk/GTalk.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.google/checkstyle.html#com.gvmax.google.contacts.GoogleContacts.java">com/gvmax/google/contacts/GoogleContacts.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${gvmax.rootURL}/com.gvmax.google/checkstyle.html#com.gvmax.google.voice.GoogleVoicePhone.java">com/gvmax/google/voice/GoogleVoicePhone.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
