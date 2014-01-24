@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.3" timestamp="2014-01-24T10:20:48.815">
+<pmd version="4.3" timestamp="2014-01-24T11:05:03.662">
 <file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.admin/src/main/java/com/gvmax/admin/GVMaxAdminApp.java">
 <violation beginline="49" endline="49" begincolumn="37" endcolumn="41" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.admin" class="GVMaxAdminApp" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
 The String literal &quot;pin&quot; appears 4 times in this file; the first occurrence is on line 49
