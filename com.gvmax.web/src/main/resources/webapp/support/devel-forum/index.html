@@ -4,15 +4,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="GVMax for Google Voice" />
 <meta name="keywords" content="gvmax, google voice" />
-<script type="text/javascript" src="../../../js/jquery-1.6.4.min.js"></script>
-<script type="text/javascript" src="../../../js/jquery-ui-1.8.16.custom.min.js"></script>
-<script type="text/javascript" src="../../../js/jquery.validate.js"></script> 		
-<script type="text/javascript" src="../../../js/jquery.tooltip.min.js"></script>		
-<script type="text/javascript" language="javascript" src="../../../js/gvmax.js"></script>
-<script type="text/javascript" language="javascript" src="../../../js/login_1.js"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="../../../css/jquery-ui-1.8.16.custom.css" />
-<link rel="stylesheet" type="text/css" media="screen" href="../../../css/jquery.tooltip.css" />
-<link rel="stylesheet" type="text/css" href="../../../css/gvmax.css" />
+<script type="text/javascript" src="../../js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="../../js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="../../js/jquery.validate.js"></script>
+<script type="text/javascript" src="../../js/jquery.tooltip.min.js"></script>
+<script type="text/javascript" language="javascript" src="../../js/gvmax.js"></script>
+<script type="text/javascript" language="javascript" src="../../js/login_1.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/jquery-ui-1.8.16.custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="../../css/jquery.tooltip.css" />
+<link rel="stylesheet" type="text/css" href="../../css/gvmax.css" />
 <style type="text/css">
 	label { width: 15em; float: left; }
 	label.error { float: none; color: red; padding-left: .5em; vertical-align: top; }
@@ -29,11 +29,11 @@
 </head>
 
 <body>
-	<div id="wrap">		
+	<div id="wrap">
 		<div id="container">
 			<div id="header"></div>
             <div id="loginLink">
-				<button id="loginButton" style="display:none">Login</button> 
+				<button id="loginButton" style="display:none">Login</button>
        			<div id="loginDialog" title="Login" style="display:none">
                     <form id="loginForm" action="">
                         <p>
@@ -41,13 +41,13 @@
                             <input name="email" type="text"/>
                         </p>
                         <p>
-                            <label for="password">Password</label> 
+                            <label for="password">Password</label>
                             <input name="password" type="password"/>
                         </p>
                         <p>
                             <input type="submit" value="Login"/>
                             <button id="loginCancelButton">Cancel</button>
-                        </p> 
+                        </p>
                     </form>
                     <div id="loginLinksDiv">
                         <a id="singupLink" href="/signup">Sign up</a>
@@ -57,25 +57,25 @@
             </div>
             <div id="nav">
                 <ul>
-                    <li><a href="../../../">Home</a></li>
-                    <li><a id="accountLink" href="../../../account/">My Account</a></li>
-                    <li><a title="User Manual" href="../../../manual/">User Manual</a></li>
-                    <li><a title="Support" href="../../../support/">Support</a></li>
-                    <li><a title="Developer" href="../../../developers/">Developers</a></li>
-                    <li><a title="On the news" href="../../../references/">On the news</a></li>
+                    <li><a href="../../">Home</a></li>
+                    <li><a id="accountLink" href="../../account/">My Account</a></li>
+                    <li><a title="User Manual" href="../../manual/">User Manual</a></li>
+                    <li><a title="Support" href="../../support/">Support</a></li>
+                    <li><a title="Developer" href="../../developers/">Developers</a></li>
+                    <li><a title="On the news" href="../../references/">On the news</a></li>
                 </ul>
             </div>
             <div id="content">
             	<div id="serverDown" style="display:none">GVMax is currently under maintenance please come back later.</div>
-            	<div class="heading"> 
-<!-- InstanceBeginEditable name="heading" -->
+            	<div class="heading">
+<!-- InstanceBeginEditable name="heading" -->GVMax Developer Forum
 <!-- InstanceEndEditable -->
                 </div>
 <!-- InstanceBeginEditable name="content" -->
-	<a id="nabblelink" href="http://gvmax-features.3505932.n2.nabble.com/">gvmax-features</a>
-	<script src="http://gvmax-features.3505932.n2.nabble.com/embed/f3505932"></script>
+<a id="nabblelink" href="http://gvmax-devel.57857.x6.nabble.com/">gvmax-devel</a>
+<script src="http://gvmax-devel.57857.x6.nabble.com/embed/f1"></script>
 <!-- InstanceEndEditable -->
-                <br/>		
+                <br/>
                 <center>
                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
                     <input type="hidden" name="cmd" value="_s-xclick">
@@ -85,12 +85,12 @@
                 </form>
                 </center>
 			</div>
-            
+
        		<div id="footer">
-			  Copyright &copy; 2009/10 GVMax. <a href="../../../privacy/">Privacy and Security</a><br/>
+			  Copyright &copy; 2009/10 GVMax. <a href="../../privacy/">Privacy and Security</a><br/>
 				Follow GVMax on <a href="http://twitter.com/gvmax" target="_blank">Twitter</a> or on my <a href="http://gvmax-at.blogspot.com/" target="_blank">Blog</a>.
-			</div>	
-            
+			</div>
+
        		<div id="messageBox" style="display:none">
 				<span id="messageBox-msg"></span>
 			</div>
@@ -98,7 +98,7 @@
             <div id="waitBox" style="display:none">
                 <p id="waitBox-msg"></p>
                 <div id="progressbar"></div>
-            </div>	
+            </div>
 
 			<div id="forgotPasswordDialog" title="Password Retrieval" style="display:none">
 				<form id="forgotPasswordForm" method="post">
@@ -112,10 +112,10 @@
 					</div>
 				</form>
 			</div>
-                
+
 	  </div>
-    </div>    
-    
+    </div>
+
 	<script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -125,8 +125,8 @@
             var pageTracker = _gat._getTracker("UA-10570095-1");
             pageTracker._trackPageview();
         } catch(err) {}
-    </script>	
-    
+    </script>
+
 </body>
 
 <!-- InstanceEnd --></html>
