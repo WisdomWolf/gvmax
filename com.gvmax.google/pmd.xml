@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.3" timestamp="2014-01-24T11:01:44.889">
+<pmd version="4.3" timestamp="2014-02-24T23:32:44.239">
 <file name="/Users/haninaguib/bamboo-home/xml-data/build-dir/GVMAX-SITE-JOB1/com.gvmax.google/src/main/java/com/gvmax/google/contacts/GoogleContacts.java">
 <violation beginline="73" endline="73" begincolumn="84" endcolumn="90" rule="AvoidDuplicateLiterals" ruleset="String and StringBuffer Rules" package="com.gvmax.google.contacts" class="GoogleContacts" method="getContactEntryByNumber" externalInfoUrl="http://pmd.sourceforge.net/rules/strings.html#AvoidDuplicateLiterals" priority="5">
 The String literal &quot;/full&quot; appears 4 times in this file; the first occurrence is on line 73
